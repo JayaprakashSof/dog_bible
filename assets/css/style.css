@@ -380,21 +380,21 @@
     padding: 1em;
 }
 #dogbusiness .row-2 .box-1{
-    background-image: url('/assets/img/dogbuss-1.jpg');
+    background-image: url('assets/img/dogbuss-1.jpg');
     height: auto;
     background-size: cover;
     padding-top: 1em;
     background-position:50% 50%;
 }
 #dogbusiness .row-2 .box-2{
-    background-image: url('/assets/img/dogbuss-2.jpg');
+    background-image: url('assets/img/dogbuss-2.jpg');
     height: auto;
     background-size: cover;
     padding-top: 1em;
     background-position:50% 50%;
 }
 #dogbusiness .row-2 .box-3{
-    background-image: url('/assets/img/dogbuss-3.jpg');
+    background-image: url('assets/img/dogbuss-3.jpg');
     height: auto;
     background-size: cover;
     background-position:50% 50%;
@@ -535,7 +535,7 @@
     border-radius: 5px 5px 0 0;
 }
 #magazine .row .box-1{
-    background-image: url('/assets/img/dogbuss-1.jpg');
+    background-image: url('assets/img/dogbuss-1.jpg');
     height: auto;
     background-size: cover;
     padding-top: 1em;
@@ -544,14 +544,14 @@
     height: 100%;
 }
 #magazine .row .box-2{
-    background-image: url('/assets/img/dogbuss-2.jpg');
+    background-image: url('assets/img/dogbuss-2.jpg');
     height: auto;
     background-size: cover;
     padding-top: 1em;
     background-position:100% 30%;
 }
 #magazine .row .box-3{
-    background-image: url('/assets/img/dogbuss-3.jpg');
+    background-image: url('assets/img/dogbuss-3.jpg');
     height: auto;
     background-size: cover;
     background-position:50% 50%;
